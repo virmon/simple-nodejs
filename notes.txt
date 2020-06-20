@@ -1,0 +1,23 @@
+nodemon
+ - development package
+    * only use in development
+    * --save-dev
+ - production dependencies
+    * --save
+ - global
+    * -g
+ - utility tool
+ - watch for changes in the app
+
+
+***Fixing Errors***
+Types of Errors
+ 1. Syntax Errors
+    - Typos
+    - 
+ 2. Runtime Errors
+    - break when it runs
+ 3. Logical Errors 
+
+ Express.js
+ - 
